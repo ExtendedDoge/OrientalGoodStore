@@ -1,4 +1,4 @@
-# Oriental Goods
+# OrientalGoodStore
 
 A small full-stack e-commerce project built with PERN Stack(Postgres, Express, React and Node.)
 
